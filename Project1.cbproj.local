@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.734,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.cpp=C:\Users\fpodg\Desktop\Projekt\SOAP\WebModuleUnit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\cijepiva.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\cijepiva.cpp=C:\Users\fpodg\Desktop\Projekt\SOAP\cijepiva.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\fpodg\Desktop\Projekt\SOAP\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.263,=C:\Users\fpodg\Desktop\Projekt\SOAP\vrijeme.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\FormUnit1.h=C:\Users\fpodg\Desktop\Projekt\SOAP\FormUnit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.734,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.h=C:\Users\fpodg\Desktop\Projekt\SOAP\WebModuleUnit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\cijepiva.h=C:\Users\fpodg\Desktop\Projekt\SOAP\cijepiva.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\FormUnit1.cpp=C:\Users\fpodg\Desktop\Projekt\SOAP\FormUnit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.064,=C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\FormUnit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.734,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm=C:\Users\fpodg\Desktop\Projekt\SOAP\WebModuleUnit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\fpodg\Desktop\Projekt\SOAP\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,=C:\Users\fpodg\Desktop\Projekt\SOAP\SOAPWSDL.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,=C:\Users\fpodg\Desktop\Projekt\SOAP\baza.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,C:\Users\fpodg\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm=C:\Users\fpodg\Desktop\Projekt\SOAP\FormUnit1.dfm</Transaction>
+    <Transaction>2021.07.05 18:31:03.933,=C:\Users\fpodg\Desktop\Projekt\SOAP\Unit3.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
